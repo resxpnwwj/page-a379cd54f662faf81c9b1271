@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7505f4cfcd5a95b86d912385",
+  "owner": "resxpnwwj",
+  "repo": "page-a379cd54f662faf81c9b1271",
+  "title": "clash verge官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a379cd54f662faf81c9b1271",
+      "a": "FastLink",
+      "b": "clash verge官网",
+      "entity": "FastLink",
+      "brand": "clash verge官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "29baa623f3fd68d25ca770b0c26b9fa622239921fa715efa1bf2027a0b31489a",
+      "content": {
+        "primary_entity": "FastLink",
+        "keyword1": "FastLink",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_DESCRIPTION": "，FastLink 提供基础版、旗舰版与团队版三档套餐，月流量分别为 100GB、300GB 与 1000GB，对应 3 台、5 台与 20 台设备同时在线。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持企业定制路由，适合多设备或小团队按周期订阅。",
+          "AI_HERO_SUBTITLE": "FastLink 海外加速套餐选择",
+          "AI_HERO_INTRO": "FastLink 面向需要跨境网络加速的个人与团队，提供从轻量到高带宽的多档订阅。按设备数量、月流量和节点类型选择基础版、旗舰版或团队版，再结合年付价格规划订阅周期。",
+          "AI_VISUAL_TITLE": "FastLink 加速方案一览",
+          "AI_HIGHLIGHT_1": "三档套餐，覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更省，长期使用更划算",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "围绕设备数量、月流量与节点特性对比套餐，再决定月付或年付。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版可支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量挑档位",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，日常浏览选基础版，4K 与多任务可选旗舰版。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长周期订阅更经济。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，并在客户端内导入 FastLink 订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数与流量需求选择合适档位。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_GUIDE_INTRO": "确认套餐与设备数量后，按客户端文档导入订阅并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中选择一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本是否符合订阅配置要求。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档添加 FastLink 订阅地址，完成节点导入。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，流畅加速",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定 FastLink 套餐，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。设备数量指同时在线数，路由器若整网代理会占用多台额度，建议根据常用设备数选择。",
+          "AI_FAQ_ANSWER_2": "流量每月重置，基础版 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览与视频基础版够用，4K 流媒体或高频下载建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。年付一次付清，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 可选 Clash Verge 或类似客户端，iOS 可用 Shadowrocket 等，Android 可用 Clash Meta 内核客户端。路由器系统差异较大，需确认固件是否支持订阅导入。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化，对延迟敏感的游戏与实时会议更友好。团队版提供 VIP 高带宽节点，适合多人共享与高负载场景。",
+          "AI_FAQ_QUESTION_1": "FastLink 套餐之间设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "每月流量用完后怎么办？",
+          "AI_FAQ_QUESTION_3": "年付方案比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "不同设备该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cfd2a15eb9bc8dc3ca7afff16f02f88f29cebf9206aa78e17c3f6523f59b33ea",
+    "sitemap.xml": "80f575ed8799f61762a20a5b7bcac1a75577b9cdef8cb66503f570aff6d1fc71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ae44e5ce4fd9f9e69d266178c88672ec893403b4127845f6e126e2089173c46f"
+}
